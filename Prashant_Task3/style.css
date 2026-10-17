@@ -1,0 +1,48 @@
+body {
+  background-color: coral;
+}
+
+.head {
+  color: darkblue;
+}
+
+#bglime {
+  background-color: lime;
+}
+
+#bglime span {
+  color: red;
+}
+
+p {
+  color: white;
+}
+
+#para {
+  color: green;
+}
+
+p b {
+  color: black;
+  font-size: 1.3em;
+  font-weight: normal;
+}
+
+ul a {
+  background-color: yellow;
+  color: black;
+  text-decoration: none;
+}
+
+ul li:nth-child(2) a {
+  background-color: blue;
+  color: white;
+}
+
+ol li:nth-child(2) {
+  color: blue;
+}
+
+ol li:nth-child(3) {
+  color: red;
+}
